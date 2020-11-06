@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1242079820400808}
+  m_IsPrefabParent: 1
+--- !u!1 &1242079820400808
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4713160007986050}
+  - component: {fileID: 68423963235776352}
+  m_Layer: 0
+  m_Name: Cama
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4713160007986050
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1242079820400808}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -10.57, y: -2.71, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!68 &68423963235776352
+EdgeCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1242079820400808}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 6200000, guid: 34483e64d162a5a469a7c12c538cd990, type: 2}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_EdgeRadius: 0
+  m_Points:
+  - {x: -2.226099, y: 0.55949116}
+  - {x: -2.0681438, y: 0.6226225}
+  - {x: -1.9158783, y: 0.6139612}
+  - {x: -1.5018005, y: 0.51188374}
+  - {x: -1.1375237, y: 0.22302914}
+  - {x: -0.9610958, y: 0.3129301}
+  - {x: -0.83112526, y: 0.25553608}
+  - {x: -0.63731384, y: 0.2817793}
+  - {x: -0.5961189, y: 0.1655302}
+  - {x: 0.25946236, y: 0.24370098}
+  - {x: 0.65885735, y: 0.14200687}
+  - {x: 1.0614853, y: -0.122338295}
+  - {x: 2.0562077, y: -0.0473814}
+  - {x: 2.6788378, y: -0.076067924}
+  - {x: 3.1182132, y: -0.14257717}
+  - {x: 3.4451842, y: -0.3025465}
+  - {x: 3.616475, y: -0.6262827}

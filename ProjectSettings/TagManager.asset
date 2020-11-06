@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - interativo
+  - muda
+  - escada
+  - alca1
+  - porta1
+  - porta2
+  - corda
+  - alca2
+  - saida
+  - porta
+  - hainu
+  - fluffy
+  - vila2
+  - vila3
+  - vila4
+  - vila1
+  - NPCCintia
+  - NPCLadino
+  - NPCLian
+  - NPCLoey
+  - NPCLulu
+  - NPCOliver
+  - NPCMarquinhos
+  - NPCVolver
+  - NPCSergio
+  - NPCRapha
+  - NPCEntregador
+  - minhoca
+  - passaro
+  - espinhos
+  - inimigo
+  - lobo
+  - acordalobo
+  - caverna
+  - volta
+  - morcego
+  - slime
+  - vaso
+  - saida2
+  - questcave
+  - tatu
+  - bau
+  - final
+  - vida
+  - slash
+  - placalagarta
+  - placacaverna
+  - pantera
+  - fim
+  - bipede
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - chao
+  - escada
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Load
+    uniqueID: 1023803491
+    locked: 0
+  - name: primario
+    uniqueID: 3078640085
+    locked: 0
+  - name: secundaria
+    uniqueID: 2782752777
+    locked: 0
