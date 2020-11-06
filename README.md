@@ -1,2 +1,2 @@
 # Syphinium
-Jogo 2D plataforma feito em unity
+Jogo 2D plataforma para computador feito em unity 
