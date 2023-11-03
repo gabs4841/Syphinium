@@ -3,7 +3,7 @@ Jogo plataforma 2D desenvolvido no unity, onde você controla um personagem que 
 
 # Como Jogar?
 
-Faça o <a href="https://drive.google.com/file/d/1c_3Gpgcx5sXAnyy3UvJGfRn72Xao6gS_/view?usp=sharing">Download</a> do "Syphinium.zip", Extraia o mesmo e execute o arquivo "Syphinium.exe".
+Faça o <a href="https://drive.google.com/file/d/1c_3Gpgcx5sXAnyy3UvJGfRn72Xao6gS_/view?usp=sharing">Download</a> do "Syphinium.zip", Após extrarir o conteudo, basta abrir o arquivo "Syphinium.exe".
 
 # Imagens do Jogo:
 ![image](https://github.com/gabs4841/Syphinium/assets/74026100/f101fc24-a78e-4e74-a5f6-6413f7cbe93b)
