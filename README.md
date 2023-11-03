@@ -10,7 +10,7 @@ Faça o <a href="https://drive.google.com/file/d/1c_3Gpgcx5sXAnyy3UvJGfRn72Xao6g
 ![image](https://github.com/gabs4841/Syphinium/assets/74026100/db183a28-cccb-4598-9778-21f04c6891e5)
 
 # Créditos:
-Programação: [Gabriel](https://github.com/gabs4841)
-Arte: [Bianca](https://www.instagram.com/acnaib_desenha/)
-Música: Yoni
-Geral: [Matheus](https://instagram.com/mattfnv?igshid=NzZlODBkYWE4Ng==), [Barbara](), [Johnatan]()
+**Programação:** [Gabriel](https://github.com/gabs4841)
+**Arte:** [Bianca](https://www.instagram.com/acnaib_desenha/)
+**Música:** Yoni
+**Geral:** [Matheus](https://instagram.com/mattfnv?igshid=NzZlODBkYWE4Ng==), Barbara, Johnatan
