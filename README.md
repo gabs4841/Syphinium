@@ -13,4 +13,4 @@ Faça o <a href="https://drive.google.com/file/d/1c_3Gpgcx5sXAnyy3UvJGfRn72Xao6g
 Programação: [Gabriel](https://github.com/gabs4841)
 Arte: [Bianca](https://www.instagram.com/acnaib_desenha/)
 Música: Yoni
-Geral: Matheus, Barbara, Johnatan
+Geral: [Matheus](https://instagram.com/mattfnv?igshid=NzZlODBkYWE4Ng==), Barbara, Johnatan
