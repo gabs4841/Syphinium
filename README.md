@@ -16,4 +16,4 @@ Faça o <a href="https://drive.google.com/file/d/1c_3Gpgcx5sXAnyy3UvJGfRn72Xao6g
 
 **Música:** Yoni
 
-**Geral:** [Matheus](https://instagram.com/mattfnv?igshid=NzZlODBkYWE4Ng==), Barbara, Johnatan
+**Suporte:** [Matheus](https://instagram.com/mattfnv?igshid=NzZlODBkYWE4Ng==), Barbara, Johnatan
